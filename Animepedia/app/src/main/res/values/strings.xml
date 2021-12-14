@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">Animepedia</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Animepedia</string>
+    <string name="nav_header_subtitle">myanimelist.net</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">About Us</string>
+
+    <string name="name_anime">Judul Anime</string>
+    <string name="airing">airing and episodes</string>
+    <string name="cari">Cari</string>
+
+    <string-array name="data_name">
+        <item>86 Part 2</item>
+        <item>Mushoku Tensei: Isekai Ittara Honki Dasu Part 2</item>
+        <item>One Piece</item>
+        <item>Kimetsu no Yaiba: Mugen Ressha-hen</item>
+        <item>Komi-san wa, Comyushou desu</item>
+        <item>Holo no Graffiti</item>
+        <item>Ousama Ranking</item>
+        <item>Detective Conan</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>TV (12 eps) Oct 2021 \nGenres: Action, Drama, Sci-Fi
+        </item>
+        <item>TV (12 eps) Oct 2021 \nGenres: Drama, Fantasy, Ecchi
+        </item>
+        <item>TV (? eps) Oct 1999 \nGenres: Action, Adventure, Comedy, Drama, Fantasy
+        </item>
+        <item>TV (7 eps) Oct 2021 - Nov 2021 \nGenre: Supernatural
+        </item>
+        <item>TV (? eps) Oct 2021 \nGenres: Comedy, Slice of Life
+        </item>
+        <item>ONA (? eps) May 2019 \nGenre: Comedy
+        </item>
+        <item>TV (23 eps) Oct 2021 \nGenres: Adventure, Fantasy
+        </item>
+        <item>TV (? eps) Jan 1996 \nGenres: Adventure, Comedy, Mystery
+        </item>
+    </string-array>
+
+
+
+    <array name="data_photo">
+        <item>@drawable/lapanenam</item>
+        <item>@drawable/mushokutensei</item>
+        <item>@drawable/onepiece</item>
+        <item>@drawable/kimetsunoyaiba</item>
+        <item>@drawable/komisanwa</item>
+        <item>@drawable/holonogravity</item>
+        <item>@drawable/ousama</item>
+        <item>@drawable/detectiveconan</item>
+    </array>
+
+
+</resources>
